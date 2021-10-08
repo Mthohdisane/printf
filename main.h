@@ -1,5 +1,6 @@
 #ifndef PRINTF
 #define PRINTF
+#define MAIN
 
 /* import some libraries */
 
